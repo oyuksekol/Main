@@ -1,0 +1,7 @@
+Üçüncü ve son test dosyası.
+
+Bu dosya boş bir son satır içeriyor.
+Boyut: Küçük
+Format: TXT
+Encoding: UTF-8
+

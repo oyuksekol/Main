@@ -1,0 +1,8 @@
+Bu birinci test dosyasıdır.
+Bu dosya Türkçe karakterler içeriyor: ğ, ü, ş, ı, ö, ç
+Python scripti ile okunuyor.
+
+Satır 1: Merhaba Dünya
+Satır 2: Python Programlama
+Satır 3: Test İçerik
+

@@ -1,0 +1,61 @@
+﻿Klas÷r belirtilmedi. Mevcut klas÷rde aranacak...
+
+'C:\Users\oyuks\Main\MainRepo\Main' klas÷r³nde 5 adet .txt dosyas² bulundu.
+
+================================================================================
+
+>> Dosya: rapor.txt
+>> Tam Yol: C:\Users\oyuks\Main\MainRepo\Main\rapor.txt
+--------------------------------------------------------------------------------
+(Dosya bo■)
+================================================================================
+
+>> Dosya: sonuc.txt
+>> Tam Yol: C:\Users\oyuks\Main\MainRepo\Main\sonuc.txt
+--------------------------------------------------------------------------------
+HATA: Dosya okunurken hata olustu - 'charmap' codec can't encode character '\ufeff' in position 0: character maps to <undefined>
+================================================================================
+
+>> Dosya: test_dosya1.txt
+>> Tam Yol: C:\Users\oyuks\Main\MainRepo\Main\test_dosya1.txt
+--------------------------------------------------------------------------------
+Bu birinci test dosyas²d²r.
+Bu dosya T³rke karakterler ieriyor: ­, ³, ■, ², ÷, 
+Python scripti ile okunuyor.
+
+Sat²r 1: Merhaba D³nya
+Sat²r 2: Python Programlama
+Sat²r 3: Test ¦erik
+
+
+================================================================================
+
+>> Dosya: test_dosya2.txt
+>> Tam Yol: C:\Users\oyuks\Main\MainRepo\Main\test_dosya2.txt
+--------------------------------------------------------------------------------
+¦kinci test dosyas².
+
+Bu dosya farkl² bir ierik ieriyor.
+¦erik:
+- Maddeler
+- Liste elemanlar²
+- Test verisi
+
+Son sat²r.
+
+================================================================================
+
+>> Dosya: test_dosya3.txt
+>> Tam Yol: C:\Users\oyuks\Main\MainRepo\Main\test_dosya3.txt
+--------------------------------------------------------------------------------
+▄³nc³ ve son test dosyas².
+
+Bu dosya bo■ bir son sat²r ieriyor.
+Boyut: K³³k
+Format: TXT
+Encoding: UTF-8
+
+
+================================================================================
+
+>> Toplam 5 dosya islendi.
