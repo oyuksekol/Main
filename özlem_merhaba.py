@@ -17,7 +17,11 @@ def merhaba():
     print("  • Satır sayma ve raporlama")
     print("  • Hata yönetimi")
     print("")
+<<<<<<< HEAD
     print("Başarılar dilerim! 😊")
+=======
+    print("Başarılar dilerim!")
+>>>>>>> e51e7d65ba1d42eaf72881590fc96c267f6fc502
     print("=" * 60)
 
 

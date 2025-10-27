@@ -1,0 +1,9 @@
+İkinci test dosyası.
+
+Bu dosya farklı bir içerik içeriyor.
+İçerik:
+- Maddeler
+- Liste elemanları
+- Test verisi
+
+Son satır.
